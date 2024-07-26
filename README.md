@@ -1,4 +1,4 @@
-<center>## Hi Actiel there 👋</center>
+                        ## Hi Actiel there 👋
 
 <!--**Actieluniverse/Actieluniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-
+                        ## Hi Actiel there 👋
   ### Connect with me:
   [![codeSTACKr Youtube Channel](./img/youtube-light.svg)](https://youtube.com/codeSTACKr#gh-light-mode-only)
   [![codeSTACKr Youtube Channel](./img/youtube-dark.svg)](https://youtube.com/codeSTACKr#gh-light-mode-only)
