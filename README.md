@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   ### Connect with me:
-  ![codeStack Youtube Channel]
+  [![codeSTACKr Youtube Channel](./img/youtube-light.svg)](https://youtube.com/codeSTACKr#gh-light-mode-only)
+  [![codeSTACKr Youtube Channel](./img/youtube-dark.svg)](https://youtube.com/codeSTACKr#gh-light-mode-only)
