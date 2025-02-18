@@ -12,14 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-                      
-  ### Connect with me:
-  [![codeSTACKr Youtube Channel](./img/youtube-light.svg)](https://youtube.com/codeSTACKr#gh-light-mode-only)
-  [![codeSTACKr Youtube Channel](./img/youtube-dark.svg)](https://youtube.com/codeSTACKr#gh-light-mode-only)
-# 😶 About Me:
+ 
 About no..,
 
-## 🌐 Socials Connect with me:
+## 🐱‍🏍 Socials Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andin-naila-rohmah-67b483349/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Actiel001)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/vFxBRdYkVY)
